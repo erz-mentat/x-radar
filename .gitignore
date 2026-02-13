@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.vscode/
+.env
+.env.*
+!.env.example
+.pytest_cache/
+.coverage
+coverage.xml
+*.log
