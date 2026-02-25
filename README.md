@@ -4,7 +4,7 @@ Minimal X (Twitter) CLI. Pulls tweets, shows metrics, estimates API cost.
 
 ## Requirements
 
-- Python 3.7+
+- Python 3.7 or newer
 - X API bearer token (free tier works)
 
 ## Setup
